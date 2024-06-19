@@ -21,6 +21,8 @@ Welcome to my GitHub profile! Here are some things about me:
   - [Email](dh370@duke.edu)
     
 - ⚡ Fun fact:
-  - I love playing table tennis and guitar! 
+  - I love playing table tennis and guitar!
+  - I am a big fan of Consumer electronics， especially for gaming pc, cellphone， handheld console!
+  - I likes taking photos with my fujifilm XT3. 35mm is my favorite focal length.
 
 Feel free to explore my repositories and get in touch if you want to collaborate or have any questions!
