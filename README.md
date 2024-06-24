@@ -12,6 +12,7 @@ Welcome to my GitHub profile! Here are some things about me:
 - 🌱 I’m currently learning:
   - Advanced robotics techniques and programming.
   - RL, control theory
+  - embedded system with AI
 
 - 👯 I’m looking to collaborate on:
   - Robotics projects.
